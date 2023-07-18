@@ -1,7 +1,7 @@
 #SingleInstance, force
 #IfWinActive
-;preenche o valor base de icms e aliquota
-^Numpad1::
+
+F1:: ;tecla de ativação
 {
 
     ; armazena o valor total liquido do produto na variavel
